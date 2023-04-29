@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./HD-wallpaper-railway-track-editing-background-thumbnail.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+.container{
+    background:wheat;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 100px;
+padding-bottom: 40px;
+padding-top: 40px;
+border: 1px solid black;
+}
+h2{
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    border-radius: 12px;
+    border-radius:1px solid black;
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 12px;
+    color: white;
+    font-weight: bold;
+    width: 40%;
+    margin-bottom: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+
+#increment-btn{
+    background-color: darkred;
+}
+
+
+#save-btn{
+    background-color: green;
+}
+#save-el{
+    font-weight: bold;
+}
+
+
